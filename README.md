@@ -3,7 +3,7 @@
 This repo hosts the code and data for the NAACL 2024 paper: [Embrace Divergence for Richer Insights: A Multi-document Summarization Benchmark and a Case Study on Summarizing Diverse Information from News Articles](https://aclanthology.org/2024.naacl-long.32/).
 
 ## Contact
-If you have any questions about this work, please contact [Steeve Huang](kh.huang@salesforce.com).
+If you have any questions about this work, please contact [Steeve Huang](https://khuangaf.github.io/).
 
 
 
